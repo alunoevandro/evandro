@@ -1,0 +1,6 @@
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\bin\Debug\Projeto time.exe.config
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\obj\Debug\Projeto time.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\bin\Debug\Projeto time.exe
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\bin\Debug\Projeto time.pdb
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\obj\Debug\Projeto time.exe
+c:\users\alunos\documents\visual studio 2015\Projects\Projeto time\Projeto time\obj\Debug\Projeto time.pdb
